@@ -20,7 +20,7 @@ Clone the repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/bargo123/exinity-assessment.git
-cd your-repository
+cd exinity-assessment
 ```
 
 
